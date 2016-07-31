@@ -12,6 +12,7 @@ a curated list of neural style and deep neural network visualization.
 7. Precomputed Real-Time Texture Synthesis With Markovian Generative Adversaial Networks
 8. Makeup like a superstar: Deep Localized Makeup Transfer Network 
 9. Aristic style transfer for videos. [arXiv](http://arxiv.org/abs/1604.08610) [github](https://github.com/manuelruder/artistic-videos) [YouTube](https://www.youtube.com/watch?v=Khuj4ASldmU)
+10. Instance Normalization: The Missing Ingredient for Fast Stylization. [arXiv](http://arxiv.org/pdf/1607.08022v1.pdf)
 
 
 ### TODO 
