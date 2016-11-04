@@ -2,8 +2,8 @@ Awesome Neural Style
 ====================
 a curated list of neural style and deep neural network visualization.
 
-# Relate Paper and Material
-1. A neural algorithm for artistic style. CVPR 2016 (seminal work)
+# Related Paper and Resources
+1. A neural algorithm for artistic style. CVPR 2016 (*seminal work*) [arXiv](https://arxiv.org/abs/1508.06576)
 2. Texture synthesis using Deep Convlutional feauture. NIPS 2015
 3. Semantic Style Transfer and Turinng Two-Bit Doodles into Fine Artwork. [YouTube]
 4. Combining Markov Random fields and Convolutional neural networks
