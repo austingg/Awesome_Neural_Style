@@ -17,6 +17,7 @@ a curated list of neural style and deep neural network visualization.
 	* still GAN method for fast style transfer
 	* some trick for image quality. (border and checkboard)
 	* multi style share same network
+12. Controlling Perceptual Factors in Neural Style Transfer [axXiv][https://arxiv.org/abs/1611.07865]
 
 
 ### TODO 
